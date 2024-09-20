@@ -1,2 +1,0 @@
-Read this file before setting up frontend
-
