@@ -1,0 +1,3 @@
+Before running this application do the following installations : 
+  Try using conda setup for this project : [refer : https://conda.io/projects/conda/en/latest/user-guide/install/index.html]
+  Install Flask using pip command : [cmd : pip install Flask]
